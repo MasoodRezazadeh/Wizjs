@@ -1,6 +1,6 @@
 # WizJS
 
-a Wizard Maker Plugin in vanilla javascript
+a Wizard Maker Plugin in vanilla javascript 🧙‍♂️
 
 ## Introduction
 
@@ -8,7 +8,7 @@ WizJs was my first try to make a javascript plugin. 👶
 
 ## Purpose
 
-this repo is just an playground for my own github training. so don't bother about it. 😉
+this repo is just a playground for my own github training. so don't bother about it. 😉
 
 ## Deployment
 
