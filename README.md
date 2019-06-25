@@ -22,4 +22,4 @@ Please fork this repository and issue pull request for review. 👩‍💻👨�
 
 Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy.
 
-© Copyright 2019 @theroy.ir 
+© Copyright 2019 @theroy.ir. All rights reserved! 😝
