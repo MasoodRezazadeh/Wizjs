@@ -18,7 +18,7 @@ PLease for this repository and issue pull request for review. 👩‍💻👨‍
 
 ## Team
 
-    Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy
+Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy
 
 
 2019 @theroy.ir
