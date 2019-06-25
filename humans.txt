@@ -1,10 +1,10 @@
-# theroy.ir/
+# theroy.ir
 
-# The humans responsible and technology colophon
+# The humans responsible and technology colophon.
 
 # Team
 
-    Masood Rezazadeh    rezazadehmasood@gmail.com   @MasoodRezazadeh
+    Masood Rezazadeh    rezazadehmasood@gmail.com   @MasoodRezazadeh.
 
 # Thanks
 
@@ -14,3 +14,4 @@
 
     HTML5, CSS3, JS
     jQuery, Modernizer
+    Git.
