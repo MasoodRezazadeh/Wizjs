@@ -16,4 +16,9 @@ this repo is just an playground for my own github training. so don't bother abou
 
 PLease for this repository and issue pull request for review. 👩‍💻👨‍💻
 
+## Team
+
+    Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy
+
+
 2019 @theroy.ir
