@@ -11,5 +11,7 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3, javascript
-    jQuery, Modernizer
+    HTML5, CSS3, JS
+    jQuery, Modernizer, Underscore
+
+copyright 2019 @theroy.ir
