@@ -13,5 +13,3 @@
 
     HTML5, CSS3, JS
     jQuery, Modernizer
-
-copyright 2019 @theroy.ir
