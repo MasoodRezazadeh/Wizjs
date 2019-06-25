@@ -1,5 +1,7 @@
+
 // WizJS
 // Copyright 2019 - theroy.ir
+//
 
 $(document).ready(function() {
   let rows = [],
