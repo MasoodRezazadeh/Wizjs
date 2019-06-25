@@ -1,6 +1,6 @@
 # WizJS
 
-a Wizard Maker Plugin in vanilla javascript 🧙‍♂️
+a Wizard Maker Plugin in vanilla javascript. 🧙‍♂️
 
 ## Introduction
 
@@ -20,6 +20,6 @@ Please fork this repository and issue pull request for review. 👩‍💻👨�
 
 ## Team
 
-Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy
+Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy.
 
-Copyright 2019 @theroy.ir 
+© Copyright 2019 @theroy.ir 
