@@ -14,4 +14,8 @@ this repo is just an playground for my own github training. so don't bother abou
 
 ## How to Contribute
 
+## Team
+
+    Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy
+
 2019 @theroy.ir
