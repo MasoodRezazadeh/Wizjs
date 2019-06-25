@@ -4,7 +4,7 @@ a Wizard Maker Plugin in vanilla javascript
 
 ## Introduction
 
-wizJs was my first try to make a javascript plugin. 👶
+WizJs was my first try to make a javascript plugin. 👶
 
 ## Purpose
 
@@ -16,7 +16,7 @@ placeholder text for deployment. it's not so important! 😬
 
 ## How to Contribute
 
-Please for this repository and issue pull request for review. 👩‍💻👨‍💻
+Please fork this repository and issue pull request for review. 👩‍💻👨‍💻
 
 ## Team
 
