@@ -3,7 +3,7 @@
 
 # Team
 
-    Masood Rezazadeh    rezazadehmasood@gmail.com   @theroy
+    Masood Rezazadeh    rezazadehmasood@gmail.com   @MasoodRezazadeh
 
 # Thanks
 
@@ -12,6 +12,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, JS
-    jQuery, Modernizer, Underscore
+    jQuery, Modernizer
 
 copyright 2019 @theroy.ir
